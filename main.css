@@ -1,0 +1,9 @@
+body{
+	text-align: center;
+}
+header{
+	background: red; padding: 5%;
+}
+footer{
+	background: blue; padding: 10%;
+}
